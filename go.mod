@@ -1,3 +1,3 @@
-module github.com/yblee-bv/testgo
+module github.com/yblee-bv/testgogo
 
 go 1.19
